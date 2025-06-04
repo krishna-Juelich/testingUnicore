@@ -1,2 +1,3 @@
 ls
 echo $(whoami)
+hostname
